@@ -1,0 +1,8 @@
+{
+  "name": "SmritiNER",
+  "description": "AI-based cognitive gaming, memory assistance, and caregiver monitoring platform for elderly dementia patients in NER India.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
